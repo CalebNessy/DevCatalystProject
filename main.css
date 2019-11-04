@@ -1,0 +1,6 @@
+.buttons {
+    background-color: black;
+}
+.buttons:hover {
+    cursor: pointer;
+}
